@@ -17,4 +17,7 @@ public class Calculator{
     public int modulo(int a, int b){
         return a%b;
     }
+    public int product(int a, int b, int c){
+        return a*b*c;
+    }
 }
