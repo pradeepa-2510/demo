@@ -20,4 +20,7 @@ public class Calculator{
     public int product(int a, int b, int c){
         return a*b*c;
     }
+    public double(int a , int b){
+        return a/b;
+    }
 }
