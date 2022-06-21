@@ -23,4 +23,7 @@ public class Calculator{
     public double(int a , int b){
         return a/b;
     }
+    public add(int a , int b){
+        return a+b;
+    }
 }
