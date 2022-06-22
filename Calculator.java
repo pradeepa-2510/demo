@@ -26,6 +26,9 @@ public class Calculator{
     public add(int a , int b){
         return a+b;
     }
+    public sub(int a, int b){
+        return a-b;
+    }
 }
 
 
