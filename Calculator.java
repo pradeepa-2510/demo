@@ -23,12 +23,5 @@ public class Calculator{
     public double(int a , int b){
         return a/b;
     }
-<<<<<<< HEAD
-    public add(int a , int b){
-        return a+b;
-=======
-    public modulo(int c,int d){
-        return c%d;
->>>>>>> f2a1c01 (commiting the different variable)
-    }
+
 }
